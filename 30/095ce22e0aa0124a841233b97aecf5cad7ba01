@@ -1,0 +1,31 @@
+src/01.rr-sim/index.rs
+  s_7c905892dd4036::t_83e8e65c47ca81 7,24,29,32-80
+  s_7c905892dd4036::t_b22116f2fa2bfc 21-23
+  s_7c905892dd4036::t_3309207db4d5db 25-28
+src/main.rs
+  s_7c905892dd4036::t_174e0972e9c66a 15,40-55,57-61,86
+  s_7c905892dd4036::t_618f43b5f1679f 4,7-11,19-26,65-69,80-83
+  s_7c905892dd4036::t_9ec5e54589275e 1
+tests/rr_sim.rs
+  s_7c905892dd4036::t_c834dcc761cf64 1-14,20-29,34-120,126-132
+  s_7c905892dd4036::t_618f43b5f1679f 15-19,30-33,121-125
+  s_7c905892dd4036::t_239cb6d7730abc 133-155
+src/01.rr-sim/README.md
+  s_7c905892dd4036::t_3baae328122d09 5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "30095ce22e0aa0124a841233b97aecf5cad7ba01",
+  "prompts": {},
+  "sessions": {
+    "s_7c905892dd4036": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a124fb-f911-7600-81ee-af1970a3b1aa",
+        "model": "gpt-6-sol"
+      },
+      "human_author": "ztygod <2739022972@qq.com>"
+    }
+  }
+}
