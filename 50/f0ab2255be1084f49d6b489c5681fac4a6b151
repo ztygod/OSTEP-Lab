@@ -1,0 +1,20 @@
+src/02.io-sim/index.rs
+  s_7c905892dd4036::t_be4931c7ee46e5 1-4,13-42,46-108
+  s_7c905892dd4036::t_9dd9057e1134ff 109-111
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "50f0ab2255be1084f49d6b489c5681fac4a6b151",
+  "prompts": {},
+  "sessions": {
+    "s_7c905892dd4036": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a124fb-f911-7600-81ee-af1970a3b1aa",
+        "model": "gpt-6-sol"
+      },
+      "human_author": "ztygod <2739022972@qq.com>"
+    }
+  }
+}
