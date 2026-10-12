@@ -2,7 +2,7 @@
 
 ### 1. 前置知识／相关理论
 
-轮转调度（RR）维护一个就绪队列。每次取队首任务，最多运行一个时间片；任务没完成就放回队尾，完成则退出队列。先读 OSTEP [`cpu-sched/scheduler.py`](https://github.com/remzi-arpacidusseau/ostep-homework/blob/master/cpu-sched/scheduler.py) 中 `if options.policy == 'RR'` 的分支，重点看 `runlist.pop(0)`、运行时间的计算和重新入队。:chatgpt-content-reference{index="0"}
+轮转调度（RR）维护一个就绪队列。每次取队首任务，最多运行一个时间片；任务没完成就放回队尾，完成则退出队列。先读 OSTEP [`cpu-sched/scheduler.py`](https://github.com/remzi-arpacidusseau/ostep-homework/blob/master/cpu-sched/scheduler.py) 中 `if options.policy == 'RR'` 的分支，重点看 `runlist.pop(0)`、运行时间的计算和重新入队。
 
 ### 2. 具体要求
 
